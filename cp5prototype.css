@@ -1,0 +1,24 @@
+img {
+    border: 3px solid #000
+}
+
+#link {
+    border-left: solid;
+    border-color: rgb(123, 204, 231);
+}
+body {
+    background-color: #fffffa;
+}
+h1 {
+    color: rgb(48, 52, 58);
+    font-size: 32px;
+}
+#p {
+    color: rgb(70, 76, 85);
+}
+#link {
+    color: rgb(70, 76, 85);
+}
+a {
+    color: rgb(123, 204, 231);
+}
