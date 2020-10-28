@@ -14,7 +14,7 @@ Be sure that your code is not within this comment section.
 */
 
 //===>Your code goes on the next line:
-
+var animate = document.ID("quote");
 
 
 
