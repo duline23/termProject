@@ -10,9 +10,7 @@ Be sure that your code is not within this comment section.
 */
 
 //===>Your code goes on the next line:
-var animate = document.ID("quote");
-
-
+var quote = document.getElementById("quote")
 
 
 /*
@@ -21,7 +19,7 @@ This step is a fill-in-the-blank below. I have provided the method details. You 
 */
 
 //===>Your code goes on the next line. Add the variable name to the beginning:
-animate.classList.add('animate__animated', 'animate__backInRight', 'animate__slower');
+quote.classList.add('animate__animated', 'animate__backInRight', 'animate__slower');
 
 /*
 Step 3: Add console log statement to the end of this script.
