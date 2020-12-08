@@ -1,5 +1,7 @@
 img {
-    border: 3px solid #000
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #link {
@@ -11,14 +13,45 @@ body {
 }
 h1 {
     color: rgb(48, 52, 58);
-    font-size: 32px;
+    font-size: 40px;
+    text-align: center;
 }
-#p {
+#school {
     color: rgb(70, 76, 85);
+    text-align: center;
 }
+.lead {
+    text-align: center;
+}
+
 #link {
     color: rgb(70, 76, 85);
 }
 a {
     color: rgb(123, 204, 231);
+}
+
+.col-10 {
+    display: inline;
+}
+
+table {
+    border: 1px rgb(49, 54, 59);
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 4em;
+  }
+
+th, td {
+    width: 150px;
+    text-align: center;
+    padding: 5px;
+}
+
+.introNote {
+    width: 75%;
+}
+
+.column {
+    padding: 7px;
 }
